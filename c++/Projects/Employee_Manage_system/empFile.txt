@@ -1,0 +1,6 @@
+1 Wei 1
+2 Xi 2
+3 Xo 3
+3 Hao 1
+4 Ha 1
+6 Ho 1
