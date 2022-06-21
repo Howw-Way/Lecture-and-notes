@@ -10,3 +10,6 @@ It contains the core knowledge including area in memory, quote, advanced functio
 
 ## Advanced:
 Learning...
+
+## Projects
+It contains some projects wirten in C++, as all my projects are developed in VS, I highly recommond you also use it.  
